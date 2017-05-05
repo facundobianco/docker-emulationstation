@@ -3,6 +3,7 @@ MAINTAINER @vando
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
+            binutils \
             build-essential \
             ca-certificates \
             cmake \

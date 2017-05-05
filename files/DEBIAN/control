@@ -1,0 +1,12 @@
+Package: emulationstation
+Version: 2.0.1a-1
+Architecture: amd64
+Maintainer: Alec Lofquist <allofquist@yahoo.com>
+Installed-Size: 16077
+Depends: libasound2 (>= 1.0.16), libboost-filesystem1.55.0, libboost-locale1.55.0, libboost-system1.55.0, libc6 (>= 2.14), libcurl3 (>= 7.16.2), libfreeimage3, libfreetype6 (>= 2.2.1), libgcc1 (>= 1:4.1.1), libgl1-mesa-glx | libgl1, libsdl2-2.0-0 (>= 2.0.0), libstdc++6 (>= 4.6), fonts-droid, libboost-date-time1.55.0
+Section: contrib/misc
+Priority: extra
+Homepage: http://www.emulationstation.org
+Description: A graphical emulator front-end.
+ EmulationStation is a flexible graphical front-end designed for
+ keyboardless navigation of your retro game collection.
